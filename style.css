@@ -6,6 +6,14 @@ h1{
     font-style:bold;
 }
 
+div{
+    padding: 5vw;
+}
+
+p{
+    font-size:18px;
+}
+
 .main-box{
     background-color: rgb(255, 255, 255);
     border-style: dashed;
